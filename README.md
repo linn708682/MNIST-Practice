@@ -6,6 +6,9 @@ MMIST Project_筆記 為此專案的筆記
 
 【Python】TensorFlow學習筆記(完)：卷積深深深幾許https://dotblogs.com.tw/shaynling/2019/02/22/162431#%E5%85%A8%E9%80%A3%E6%8E%A5%E5%B1%A4(fully%20connected)
 
+神經網絡 : 梯度下降
+https://www.bilibili.com/video/BV1Lx411j7iv?spm_id_from=333.999.0.0
+
 反向传播——通俗易懂
 https://blog.csdn.net/weixin_38347387/article/details/82936585
 
